@@ -6,6 +6,23 @@ Tronj makes it easy to build TRON applications with java.
 
 Tronj document: https://tronjdocument.readthedocs.io/en/latest/
 
+
+## How to build
+
+### On windows
+
+```shell
+clone https://github.com/dataspider-fan/tronj.git
+cd tronj
+gradlew.bat
+gradlew build
+
+dir build\libs
+  2022/12/10  14:00    <DIR>          .
+  2022/12/10  14:00    <DIR>          ..
+  2022/12/10  14:00               261 tronj-0.1.2.jar
+```
+
 ## How to use
 
 ### Gradle Setting
