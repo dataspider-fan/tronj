@@ -560,7 +560,7 @@ public class TronClient {
     }
 
     /**
-     * Get current API node’ info
+     * Get current API node' info
      * @return NodeInfo
      * @throws IllegalException if fail to get nodeInfo
      */

@@ -20505,7 +20505,7 @@ public final class Response {
 
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -20513,7 +20513,7 @@ public final class Response {
     int getAssetV2Count();
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -20528,7 +20528,7 @@ public final class Response {
     getAssetV2();
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -20537,7 +20537,7 @@ public final class Response {
     getAssetV2Map();
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -20548,7 +20548,7 @@ public final class Response {
         long defaultValue);
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -23495,7 +23495,7 @@ public final class Response {
     }
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -23517,7 +23517,7 @@ public final class Response {
     }
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -23529,7 +23529,7 @@ public final class Response {
     }
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -23546,7 +23546,7 @@ public final class Response {
     }
     /**
      * <pre>
-     * the other asset owned by this account，key is assetId
+     * the other asset owned by this account,key is assetId
      * </pre>
      *
      * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26213,7 +26213,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26235,7 +26235,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26247,7 +26247,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26264,7 +26264,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26289,7 +26289,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26312,7 +26312,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
@@ -26328,7 +26328,7 @@ public final class Response {
       }
       /**
        * <pre>
-       * the other asset owned by this account，key is assetId
+       * the other asset owned by this account,key is assetId
        * </pre>
        *
        * <code>map&lt;string, int64&gt; assetV2 = 56;</code>
